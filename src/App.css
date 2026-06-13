@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  
+}
+.point-color{
+  color: rgb(238, 235, 236);
+}
+.heart-color{
+  color: rgb(250, 76, 163);
 }
 
 .App-logo {
